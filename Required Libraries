@@ -1,0 +1,5 @@
+install these libraries to run this project
+
+1. Misaka (pip install misaka)
+2. Djnago bootstrap (pip install django-bootstrap4)
+3. Django Braces (pip install django-braces)
