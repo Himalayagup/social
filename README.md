@@ -9,7 +9,7 @@ Versions-
 Python- 3.8 Django- 3 Bootstrap- 4
 
 To run this project in your own computer follow below process:
-
+Note: Some Libraries are required to be installed please check required libraries file and install them
 a) To make models and migrate them with applications: 
 
 --> $ python manage.py makemigrations accounts
